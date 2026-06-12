@@ -1,0 +1,35 @@
+name: Deploy to GitHub Pages
+on:
+  push: { branches: [main] }
+  workflow_dispatch:
+permissions: { contents: read, pages: write, id-token: write }
+concurrency: { group: pages, cancel-in-progress: true }
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install
+      - name: Build static site
+        run: bun run build
+        env: { NITRO_PRESET: github_pages }
+      - name: Locate & prepare static output
+        id: prep
+        run: |
+          DIR=""
+          for d in .output/public dist/client dist build/client .nitro/output/public; do
+            [ -f "$d/index.html" ] && DIR="$d" && break
+          done
+          if [ -z "$DIR" ]; then echo "No static index.html. Tree:"; ls -R .output dist build 2>/dev/null | head -80; exit 1; fi
+          cp "$DIR/index.html" "$DIR/404.html" 2>/dev/null || true
+          touch "$DIR/.nojekyll"
+          echo "dir=$DIR" >> "$GITHUB_OUTPUT"
+          echo "Deploying $DIR:"; ls "$DIR"
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: "${{ steps.prep.outputs.dir }}" }
+      - id: deployment
+        uses: actions/deploy-pages@v4
