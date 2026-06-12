@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-06-12T11:27:05+00:00",
+  "generated_at": "2026-06-12T11:41:01+00:00",
   "period": "Week of Jun 06–Jun 12, 2026",
-  "summary": "This period the radar tracked 586 distinct layoff/restructuring event(s) and 206 live vacancies across Europe, with activity concentrated in Germany. EU skills shortages remain pronounced in healthcare and skilled trades (Cedefop).",
+  "summary": "European layoffs accelerate across automotive, retail, chemical, and tech sectors, with major announcements from Nissan (900 jobs), Electrolux (1,700 jobs), Commerzbank (3,000 jobs), and several German manufacturers. Energy cost pressures and AI-driven restructuring continue to shape workforce reductions, though some sectors report record job openings alongside cuts.",
   "countries": [
     {
       "name": "Germany",
       "code": "DE",
       "layoff_level": "high",
       "layoff_score": 1.0,
-      "events": 50,
-      "vacancies": 114,
+      "events": 60,
+      "vacancies": 133,
       "headline": "Volkswagen Layoffs: Volkswagen to Cut 50,000 Jobs in Germany by 2030 Amid Profit Decline - Storyboard18",
       "headline_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWE9ObUhIUjBsNlJPdndHUmFlaHBlVGJwSHRwRGpQd2FwQ0FVUE5VMGZwRV9DeEdPOHNxZnR5R01RTndMenF2WHJjVjZSN2w4dk9MdWJsTjVpN2tkNEc2UDRud3V3RnN5R21TN3BYU3FzemFfT2dRSkdqUlBKeWV3UHNaT0UxeEtVaFZIdEFLM2VscldpTUFseDZBdWsxOGlxYkdodEtPOWhEemlvY1ZhTUJqSFVvQlNkQXRhUXc3TlcwTDjSAcgBQVVfeXFMT0dEaGd2NFFuOGYyVW9wcUFBbVYwRnM3Nlpia3V4NzM4WVFLU0wySUFTRTZhVDB2LWp5aUExNl9lSl8yenpQb29vR2xUaTc5ZXU2cG5Wb212cGZqdkpDWUdfTUhva19jZGdjNE5CRnFxenRlRjJqU0Z4eHB6azMxcmZ2TEhPNHlnVVdBU1ZhY1pwZzhKYnJ1WXUwaVJvb3JYNm9BMXBnSktfN0N0UlJmc3ltdzFRUGRiOTBLWTJlR3hKT0hmWE5Nazc?oc=5",
-      "summary": "50 layoff/restructuring event(s) tracked this period."
+      "summary": "Major layoff wave across banking (Commerzbank 3,000), chemicals (Wacker 1,600, Continental 1,600), and auto sector; hiring freezes reported despite 192,700 job openings; labor courts tightening mass layoff standards"
     },
     {
       "name": "Italy",
       "code": "IT",
       "layoff_level": "high",
-      "layoff_score": 0.72,
-      "events": 36,
+      "layoff_score": 0.67,
+      "events": 40,
       "vacancies": 0,
       "headline": "New Stellantis layoffs mean over 3,000 jobs set to go in Italy - Automotive News",
       "headline_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVVhRjB0aGZXakhHVlROb2NGQ182b1dzamdicjNxanp2XzJOY1R4TXdnZHFRaTJYV085WFpEWWNTWE13Nm1oVVNoYU1BWGtGcklrVVBNQnZCOGpuQl92ZFBabWVJUEZVNVpMZVVNbnhTelpxa2J1b1QxbkhIVTNFUnNmU2Nrdw?oc=5",
-      "summary": "36 layoff/restructuring event(s) tracked this period."
-    },
-    {
-      "name": "Spain",
-      "code": "ES",
-      "layoff_level": "high",
-      "layoff_score": 0.68,
-      "events": 34,
-      "vacancies": 0,
-      "headline": "A Shadow Over Amazon Spain: Layoffs Affecting 1200 Workers - Foro3D",
-      "headline_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXphQVAzZUkzOGVKMGwyV1UyX3d5UU81WGE1b3g4MXBnT1lfLVlTWjZHeHA5dUhyZUI3eHN0cGNBNFhvcE02cDAtN0ZtVnZFUVFSenJoeEhLdHl0QVdSNEtfMERUR1NsMlllRE1Kc3Q2ZEttTlhQeFJ5WWM4NWFsWDZ3RHdITWpPTlRLOHo3YUN4ZVdlWmNQcA?oc=5",
-      "summary": "34 layoff/restructuring event(s) tracked this period."
-    },
-    {
-      "name": "France",
-      "code": "FR",
-      "layoff_level": "elevated",
-      "layoff_score": 0.58,
-      "events": 29,
-      "vacancies": 0,
-      "headline": "Ubisoft begins voluntary layoff process at Paris headquarters, up to 200 roles affected - Storyboard18",
-      "headline_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1Q3UzVGTU84NnllS1ZHUUxDMGJ3NTRvcDlFa1M1bmdUQmdObUxTX2dRanJIU0xKYWdZeVVTVF9rQmFTTm5DbzR0NWNuM1ZwU0dZTl9qaDVWQXFMZVBQb2ZzbEhiZERfbWM5cUNTQ05peTBhSWp2TjNsMC1oOVlyaW81dUpvTjhLd2g4RWhQSTlwSk1hSlJ0YmhTcGJCY1JvaXFOYWd3MFhXVjNzaE1YR1U0ZHMxbzZYWVRJeFZSeVhiOHpvZTRNX1NvQU5YMDJiWmFuZtIB2gFBVV95cUxQNk1sNk9PZFFXRTVwX21ndWV1WF93SGlIdE5tRUJLc0ZXcGs1RmJjMjVZOUdLY0dJZk1QdjRwdHV3QTlNekhmdzB3VGpUcHZuMWNHLUdvMjFpYzhfZDM1S3lXTWR6TDdsNHIzbV9sQ1MyQnFJN3hIUEkwV0toMEhoZU5JX0dpaWtNcnBuNnRtQlg4c0ZuWTl6TTdJcFpxbjhKX3Z1QzlJTUlyZVRLQWM5MXQwYmdEMlFETjVUV1U0bHBVLThZWnZzb3lxX09zWGxudzNYb2lkVkhQdw?oc=5",
-      "summary": "29 layoff/restructuring event(s) tracked this period."
+      "summary": "Electrolux announces 1,700 layoffs and plant closure; Kering/Alexander McQueen strikes over restructuring"
     },
     {
       "name": "Sweden",
       "code": "SE",
       "layoff_level": "elevated",
-      "layoff_score": 0.5,
-      "events": 25,
-      "vacancies": 92,
+      "layoff_score": 0.62,
+      "events": 37,
+      "vacancies": 174,
       "headline": "Ericsson layoffs: Telecom equipment giant to cut 1,600 jobs in Sweden in push to cut costs - MSN",
       "headline_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOXl5VGFSczhjdkt6c2czYXpIYXpqa0k2Z1c0X0w5N0h2dVVBS2I2UjduMW02Y1NDN2lWWXp3WEZWOUNMaXRzUnVQUnlJdzBJTDJlZkNDLUNBeXhZZmkzc3RkQnhjdG1ZRWhYWUt2YUFZVVVndTNWSDNnME5RU1FJMDdkMDRXenVKNU5xQ1R1Ymlzb3RIWWxyOTJpWjExTHBaY05ZTFVza210WnF0dUZCd2Z1dHNBcmhvSGQyMi1OZ2swU1lVMjJBNVdaZHZ6RXRVaU1haw?oc=5",
-      "summary": "25 layoff/restructuring event(s) tracked this period."
+      "summary": "Metacore 159 layoffs; Truecaller 15% workforce cut"
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "layoff_level": "elevated",
+      "layoff_score": 0.6,
+      "events": 36,
+      "vacancies": 0,
+      "headline": "A Shadow Over Amazon Spain: Layoffs Affecting 1200 Workers - Foro3D",
+      "headline_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXphQVAzZUkzOGVKMGwyV1UyX3d5UU81WGE1b3g4MXBnT1lfLVlTWjZHeHA5dUhyZUI3eHN0cGNBNFhvcE02cDAtN0ZtVnZFUVFSenJoeEhLdHl0QVdSNEtfMERUR1NsMlllRE1Kc3Q2ZEttTlhQeFJ5WWM4NWFsWDZ3RHdITWpPTlRLOHo3YUN4ZVdlWmNQcA?oc=5",
+      "summary": "Nestlé cutting jobs after union negotiations; H&M 100 layoffs; Glovo worker strikes; Amex GBT 116 cuts"
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "layoff_level": "elevated",
+      "layoff_score": 0.53,
+      "events": 32,
+      "vacancies": 0,
+      "headline": "Ubisoft begins voluntary layoff process at Paris headquarters, up to 200 roles affected - Storyboard18",
+      "headline_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1Q3UzVGTU84NnllS1ZHUUxDMGJ3NTRvcDlFa1M1bmdUQmdObUxTX2dRanJIU0xKYWdZeVVTVF9rQmFTTm5DbzR0NWNuM1ZwU0dZTl9qaDVWQXFMZVBQb2ZzbEhiZERfbWM5cUNTQ05peTBhSWp2TjNsMC1oOVlyaW81dUpvTjhLd2g4RWhQSTlwSk1hSlJ0YmhTcGJCY1JvaXFOYWd3MFhXVjNzaE1YR1U0ZHMxbzZYWVRJeFZSeVhiOHpvZTRNX1NvQU5YMDJiWmFuZtIB2gFBVV95cUxQNk1sNk9PZFFXRTVwX21ndWV1WF93SGlIdE5tRUJLc0ZXcGs1RmJjMjVZOUdLY0dJZk1QdjRwdHV3QTlNekhmdzB3VGpUcHZuMWNHLUdvMjFpYzhfZDM1S3lXTWR6TDdsNHIzbV9sQ1MyQnFJN3hIUEkwV0toMEhoZU5JX0dpaWtNcnBuNnRtQlg4c0ZuWTl6TTdJcFpxbjhKX3Z1QzlJTUlyZVRLQWM5MXQwYmdEMlFETjVUV1U0bHBVLThZWnZzb3lxX09zWGxudzNYb2lkVkhQdw?oc=5",
+      "summary": "Michelin leading cuts with 1,500 voluntary roles; broader restructuring themes in European operations"
     },
     {
       "name": "Denmark",
       "code": "DK",
       "layoff_level": "elevated",
-      "layoff_score": 0.46,
-      "events": 23,
+      "layoff_score": 0.43,
+      "events": 26,
       "vacancies": 0,
       "headline": "Novo Nordisk Layoffs: Danish Drug Major To Eliminate 9,000 Jobs, 11% of Its Workforce To Save Costs by End - LatestLY",
       "headline_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNQ2tFTXBmVnc3LUlGUG42cTBNRi1Cb3RIbTdoZkJmVzgyLW1jRVlaVGtiUVAxcUZ6Y1NNcWFtS2tMZEtMeDFneFVVdVdDMHFHTUd3WUxXQVUyYU1ORXM2dFFMVEdVUjhNYjN1X1hscGZSSlBBRnh5REVVSTNVOEV5N250WkZJVHZPcExsQm40N0dVeG1QbFhjeThrX2pFc2drLUx1YW9qMjhWdEJDUXVWakhlZUpBS1c4eTdoOHM3NXAwcUNOeVpHYXhmTXhqVkUxTVVkcC0yQ3NneG9mV2h4SzBrdVByR0l4TXYxbVB0eXpIdHpmLU9wN0JvTVNWUk14a3RoMTVoX3gwRzZoR1g1cnRZd3VmUTlyeEtBLXd2S0Q1aDl30gGqAkFVX3lxTFAyczhMSFVPd090dGM0V2JSTnc5VlRZcWRzS0pvTVNfV2h4SFBWMW1YSVliVXoxenVFUkNUd25HczVER1pVZElnTDUwcng5SHdlTFdxRUFRWk9pX29XVkFpOVFCQkJtX0RzX3o5UXBSN0xBc0duc3d4VXdYam1abnpHMGMzUTZCNjdNaHpLSWNBRDhnclpiQnp2VG1xUGhlQk9WT3BqTDNWMFdjSU1CS3VJVHp5OFIyVC1jYUpxVWRpV2pCYVhBLXJZVDNOOXdXUnNmdTBUWExSc3ZzZ2I4SmI2OVprNFhfOUd4OUNhbndvSHRXN1hzZERiRkZ6dGhyS0tJUzBqRVdSandfbVVyVmI0ZVRpOWdURmFSdFBOZXpHV2hkRG5MdDBhb2c?oc=5",
-      "summary": "23 layoff/restructuring event(s) tracked this period."
+      "summary": "Novo Nordisk historic layoffs (first employment decline in 17 months); record employment rate despite cuts"
     },
     {
       "name": "Netherlands",
       "code": "NL",
       "layoff_level": "elevated",
-      "layoff_score": 0.46,
-      "events": 23,
+      "layoff_score": 0.43,
+      "events": 26,
       "vacancies": 0,
       "headline": "Dutch bank ABN Amro plans to slash 5,200 jobs by 2028 — what's behind the layoffs? - Mint",
       "headline_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR0ZKbHN3RlNKU2JxeV9wakVuRHNReU4wS2xzUWl6WFZvdTU1SkhVbkpuVmRON3lZWXl3b2JLVUo2TXZtWEwzWEhGbVFKVWtwLTBsT01VT3l6TDVpZFRQZjVfV3NyWVJMcTl1b1BlRXVyQm1mUkllRWNVZ2sxZmx0TXBMM3ZjXzlDMVNGYUJIanFoTldpZkZMbzJRbmJpODMwejgyV2VUS0xhRFM3ZDU3TWRMdnVRdU5DelpCbnRJUjdnNmIwMFdMUzhXdWJlZjc3bktzRNIB2gFBVV95cUxQMklWU25vNDlXU1UtS3ZTYUhYZ0VDR1pTR3hjcVNiZHNHaGRCQXNZbFIxUDM2SVFIRmR6UXg5T1lCaDZDNGZ6ZmowaS0wYjcxY0VMRVBqQjVEcXphaGhhaHFSMkZta2V5SERySjk4N3FuWFhvcUowWGM4aGVoVS0tQjFHLWMxemxNTjlBOXFmRm04SWF3WWo4TmNsdW82YldRUFl1UDNNcDM3WlNyZHliY0l2OVRhWTUtaHFjQjFJY3hjaWFrbDlzZUJwWk5tUUMzbnRwTFRYTDF3dw?oc=5",
-      "summary": "23 layoff/restructuring event(s) tracked this period."
+      "summary": "Transavia operational restructuring due to rising costs"
     },
     {
       "name": "Poland",
       "code": "PL",
       "layoff_level": "low",
-      "layoff_score": 0.06,
-      "events": 3,
+      "layoff_score": 0.07,
+      "events": 4,
       "vacancies": 0,
       "headline": "‘The automotive industry is dying’: Global carmaker announces mass layoffs in Poland - TVP World",
       "headline_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTG1aMFFMWG9Ca3hxZEpQV1BLMHA5RE5XdGpVZzBMQ2sxaU5sRHJBeHk0VFJIZEwxS01sb3pGb0NGNTVQZGpDWno2TThQTm1fLXFfcGQwUnkzTTEtUk80XzJSbFRrYXJLLWg2TE5PQ2JtVlp2V2dvamc1RVpDOWVIcFhqYnFqZG44dmVsRFBVeEgyVTJBRGlfUENoTQ?oc=5",
-      "summary": "3 layoff/restructuring event(s) tracked this period."
+      "summary": "4 layoff/restructuring event(s) tracked this period."
     },
     {
       "name": "Belgium",
       "code": "BE",
       "layoff_level": "low",
-      "layoff_score": 0.04,
+      "layoff_score": 0.03,
       "events": 2,
       "vacancies": 0,
       "headline": "Over 100 workers in Belgium set to lose jobs amid AGC group layoffs - The Brussels Times",
@@ -149,112 +149,112 @@
   ],
   "top_events": [
     {
-      "company": null,
-      "country": "Europe",
-      "type": "layoff",
-      "jobs_affected": 200000,
-      "title": "European banks may lay off 200,000 due to AI - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUhZb1NBMktuT3pWTmV3QVJyYzNTbk9SQ3lyc2pIWklBVHdBX1pIZFJINVJkLW1jb0ZIZTBJTEpINmZUWWk1OFliaUozUVNKU29xV0E4RjNpa3pEUDVnVWVfaUpoMDZ5clNUVHlPTGZvYWwzQVhtcVEzLW5qUTV6cnFhd2tyUUFvSTFPTGQxSGRES0tYN3FhV3dR?oc=5",
-      "date": "2026-01-02"
-    },
-    {
-      "company": null,
+      "company": "Commerzbank",
       "country": "Germany",
       "type": "layoff",
-      "jobs_affected": 50000,
-      "title": "Volkswagen Layoffs: Volkswagen to Cut 50,000 Jobs in Germany by 2030 Amid Profit Decline - Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWE9ObUhIUjBsNlJPdndHUmFlaHBlVGJwSHRwRGpQd2FwQ0FVUE5VMGZwRV9DeEdPOHNxZnR5R01RTndMenF2WHJjVjZSN2w4dk9MdWJsTjVpN2tkNEc2UDRud3V3RnN5R21TN3BYU3FzemFfT2dRSkdqUlBKeWV3UHNaT0UxeEtVaFZIdEFLM2VscldpTUFseDZBdWsxOGlxYkdodEtPOWhEemlvY1ZhTUJqSFVvQlNkQXRhUXc3TlcwTDjSAcgBQVVfeXFMT0dEaGd2NFFuOGYyVW9wcUFBbVYwRnM3Nlpia3V4NzM4WVFLU0wySUFTRTZhVDB2LWp5aUExNl9lSl8yenpQb29vR2xUaTc5ZXU2cG5Wb212cGZqdkpDWUdfTUhva19jZGdjNE5CRnFxenRlRjJqU0Z4eHB6azMxcmZ2TEhPNHlnVVdBU1ZhY1pwZzhKYnJ1WXUwaVJvb3JYNm9BMXBnSktfN0N0UlJmc3ltdzFRUGRiOTBLWTJlR3hKT0hmWE5Nazc?oc=5",
-      "date": "2026-03-11"
+      "jobs_affected": 3000,
+      "title": "Commerzbank Layoffs: Germany-Based Bank To Cut 3,000 Jobs in Major Pivot To Defend Against UniCredit",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZTJHZG9XMjF6S0FYZW1kQm83Q2REVUNvYW1VdUxYZUFrMFNveUZHZGlaa0Izd01sRTRDY2d0M1dmVUNuM0JySkZzUGMwYzQtSjNLNTlZeURYOC1MamFjY0xNdHdZcWdENTdVZWxEV3NZaGNwZ202bU5Da3IxOENoSEhIaWpOSk5DM0pzV3dTS0FIOWFhTmR5dnNOQTVJSVpsZTU2SDRjYmlKdm9SVkRPaTZwSVA3aDJnbENnMFk0YjlEVDUtMEpqcWRLSDB6LW50U3Jtd0VwVy1hdFhXMDBfN1NjS29RaHZRcUHSAe8BQVVfeXFMTkE5bHQ2V3BhUzNiTjdfM1Q2QkUxVlJnNzNfQ0RTV1l4VzZxemFvN0dldGQxTldSMnFYeDRpVllFRmotQWdqZUNTMWFLUFJNa3JTajRVZzZ1TjByb05QT2pvUVdzR3c5NWtSVlNzLWRSaHZiLTBDUHpSdUxBakVyckcwY2ZNSVFSMHoxalp6MmMtQm1Wa01rNkdyb3dIY2VNZXNaNGpwcE1vZDJDTHZUQXhHNXdzRjBxbWgwREYtV0FWcUMwTDdxbFlIVHRKMDlTMzEyNkpOSE42MlRPLTg4UVAwVDBOcFZCWHRRV1g1MUE?oc=5",
+      "date": "2026-01-01"
     },
     {
-      "company": null,
-      "country": null,
+      "company": "Michelin",
+      "country": "France",
       "type": "layoff",
-      "jobs_affected": 39000,
-      "title": "Layoffs From Just 6 Pharmas Could Wipe Out Over 39,000 Jobs - BioSpace",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUVfNGtwejBLMUVBcUZUVWdqN2tjbGRBVzNiQWVPbWNxVE9yMUZJaUpvX283TVJxcUtJTHZIUWJlcm9qRDBkZ2pzdWtiOTNJZ0U4Z3hvbFAxZEZxWEpHRVRPQ05kci1YelZkdmtPQVFDbWEyRHFDX0t0azNKNGVtTGhxTl9oVml1Q1dTeEwyNm5PNWp6a3ZUNnpSbw?oc=5",
-      "date": "2025-09-18"
+      "jobs_affected": 1500,
+      "title": "Michelin plans 1,500 role cuts in France without forced layoffs",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2otaHNVWkFTUlFfdnR3dVVsR0xHaFRnMlZTa2ZFclRrRHR0TmdmSVhKZXJ0TzhQamVvTkNzNFRSTE9YNFlKLXpHanZvOHYyRTduaWhRYU1lbktpU3lFVTV5UlRORHJ2OWRUSTNRMGhFNFNzdzFXbmYzbWViQXZDZ21aVlIwT2R6LV9vWUE0Rm1vQ2RfWnNDMllYODZiVG1sWTFES0otUQ?oc=5",
+      "date": "2026-01-01"
     },
     {
-      "company": null,
+      "company": "Electrolux",
+      "country": "Italy",
+      "type": "layoff",
+      "jobs_affected": 1700,
+      "title": "Electrolux Plans Major Italy Job Cuts As Unions Call Strikes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTN0czYzWU9MSzZQZG1hMlZZeU55QWExTE4xYUk5b0xXSXlYUlRGM2xIekVJSXFDU1lHekt3X2xQSFBCWDBnbUVCaU4xS203d01jbEN2V0M5WlNpMGI2anltMy1HNExCVHNqQnNvUnlLRENsd1NqNXlEYVcxejFuSm5RNzBnZlozOFhYcHRvZE14MXdIT21sVldsVks1MU9tQVZPeFFqODNta0tP?oc=5",
+      "date": "2026-01-01"
+    },
+    {
+      "company": "Wacker",
+      "country": "Germany",
+      "type": "layoff",
+      "jobs_affected": 1600,
+      "title": "Job cuts at WACKER: Around 1,600 jobs in Germany affected",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOGtLaHltUW45WGFNUmRBRXZCZnFkZ19qRWl4ei04S05wdGZsZUl0RjdsaHF2TjNUaTNfa1ZxeFRBU3k1Vmx5UmJoT01xMm01c2pDVTc4cWpuV0dOdGZubks3TzY1TXB0RUJCN3hmX09KYlBKTU14ckFrejhOc255VEtxcUZMVXVmRnM1VmFPVFBackdOM0Q0dEdzZURsOExaRkRtSXFNX2pTX2daYTJpTWtoMGVLanBPUzZhWmxn?oc=5",
+      "date": "2026-01-01"
+    },
+    {
+      "company": "Continental",
+      "country": "Germany",
+      "type": "layoff",
+      "jobs_affected": 1600,
+      "title": "Continental reaches labour agreement on 1,600 job cuts in Germany",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNck0wQm5iWkhZZk1IeDF6eWNfajJmdE5UYVo1WHd1Qi1DQVM2VHg3TDd1Y200LWVDNkQ1cWRUWnJxalZaQmlNLXowbzhXZ0JQUGJOS1dMb2NvTVdMeXlSNzhtRHFHMHFhSUxnSkVCLXQzMkhOOEFSSlpHYlA2VDlnU3Fka0hSVkVpQklxeUlBbVhpbkFMeFptdmZDNldkeFRJVFFyZURPU3lRZWltbDZBMVU4N1VtZUZiTHp0clJwYXNURkJYbllN0gHMAUFVX3lxTFA2Q0czS29FY29ycnVDTVR5WVBwb0wyb09nWFFiVDRuOGVDNkxHcWJvclN4TFRDTlUyUjNVaVktRHRuemU1YmNPdk8xYU50OFRPYXZnakJMVFZvc2RXR1VyMWROMGRQVWY2VWplWlgxU19KaFUzZ045cEg3UUJsdUhKSDI3Q29nSk5GQ0FVNU9TNHRXUnlydnBSUG52M3F4ZUhEdDBuZFdlVWJ2Z25hWFlwNVdEcmVKc0pKRVAwZmxiWmJhZlBkTk9lVDFtNw?oc=5",
+      "date": "2026-01-01"
+    },
+    {
+      "company": "Nissan",
       "country": "Europe",
-      "type": "restructuring",
-      "jobs_affected": 21000,
-      "title": "Intel to cut 21,000 jobs, pause Europe fab projects under restructuring drive - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFNvNlhvTHgwYThJMlJOMWhZcWxzcl9ldWVVbGIzWnExNmpvRkE1U2l5SzFjV2R4SE9lVUFuTHBhd0xuZ05fMS0xRVRnXzF1NS1TbHBBSjRNUDBwcnUxSThlQmxzdDV1bHlfNF9EOXpOeVBMaFI3UFlYYUhpQ1BOTzczRF9qU1k?oc=5",
-      "date": "2025-07-25"
+      "type": "layoff",
+      "jobs_affected": 900,
+      "title": "Nissan to cut 900 job cuts in Europe as part of global restructuring",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0xIQ1JVUTRtcXFSUDJnUm5UZWcyYWwySDJBX0dieFFJNTFjM1hwdGVabElmUDFuaURlLXF1NWxXN2lTM3Z6aFNLY2hOVDJaRTEySDk3MlNuS21FQmxFSXZOWFhTOG8tbEdlQnZDajU0YjlmaGttYmFzWlh2eEswQ01SREtORnZiYXEzYlAzZjY1b0k0dTI3M3pCNjgxREc2YkZZ?oc=5",
+      "date": "2026-01-01"
     },
     {
-      "company": null,
+      "company": "H&M",
+      "country": "Spain",
+      "type": "layoff",
+      "jobs_affected": 100,
+      "title": "H&M and unions reach agreement on the layoff of about 100 employees in Spain",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzM3WEJLWnJYTlN6S2J5bjJFcFd0ZTVBMnBXUFduLXFnajR2a0FSZVRQblJwSUZyS3hMakpyX1lPdEVnMHRrRzRxUkg1RmNFMmduNG9QZlBBaGMtQk1hd2psQkFxVnhqQk1tMmVTRnBrZnhDX016NDZDZmdVWGd0bjVPYmw1bHR5ak55VGJWZTNWSGF6OVFxMXBVTVJ5STRMQklqTnJkMnJXeEx2d0xHbFh6REdRYTZt?oc=5",
+      "date": "2026-01-01"
+    },
+    {
+      "company": "Amex GBT",
+      "country": "Spain",
+      "type": "layoff",
+      "jobs_affected": 116,
+      "title": "The Amex GBT ERE concludes with 116 layoffs in Spain, 35% of Corporate Travel",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXNLRWNyZTZRZDNvdkdhV1hVWElIaDFJbE01akQ0Zll5VlY1a1J5YUNDenZFVmVwT0lUY3l5eFlYTDRpNTBDY0RXdGNpc2FqaUZmN0JxU21nTlVvdDFQSXVBbXpvSThNSVFZRFNkQjluQllTSjMxSzQxSXJrdk44SmZxbFZ4MkdaUVlpZkRMWEl1YjBuQkkxdEY1WXM2UjFOYUI0Zjd2NGE1X2F6WWN6aUJ30gG3AUFVX3lxTE1VRU5IZnFxdTRZZkE1RUd1NE1Ta0dPR0VKR1kzYmRaZk9UUGVxMW9kaXVDZ1ZhSTR1b19LVEZSaF8tVUNHcjV6Qmp1T0Z4dmRfa2FvUWdjMm5nN29NV19EUXBsR1hrNlpiWmRSTl9JTGQtWXBSY1dyb1N1bE9JZFc5eGZxMHFnVlprX3BGaE1lTE1SYmhndE5Tc3BtYnZoZHZPeFlKQVhKYkgxdlA0S1MzUVZhaUEwOA?oc=5",
+      "date": "2026-01-01"
+    },
+    {
+      "company": "Metacore",
+      "country": "Germany",
+      "type": "layoff",
+      "jobs_affected": 159,
+      "title": "Metacore closes Germany and Sweden operations as it confirms 159 layoffs",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkFNM3M1cHMtcXk0emdQMFFwRWVXYkV0U0hBbm50SS10Q0pNS3NSVUVoMGdfbUk5QUFXelFLZ2JPY3cwdDdlWEh5dElFUVNlZ0VDT25vVDlwUFRDR3l6enI0UGR1Z3ZGdEktb2NZdi1wbURFWmVDX0ZJUE9HNWZCQktVRkUtczZ5MWV1M0wxdUstVC1fMFFDN3A5MzZaRzBMS3hn?oc=5",
+      "date": "2026-01-01"
+    },
+    {
+      "company": "DeepL",
+      "country": "Europe",
+      "type": "layoff",
+      "jobs_affected": 250,
+      "title": "DeepL Layoffs Land Hard – How 250 Jobs Vanished Inside Europe's Translation Darling",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREZRVDBhM0RaOU15djB6Ni1hbnBFVWwwYnJrbmZTbHpDbi1Xb0kzdF9ueHNyQnYwSzZrZ1d1d2J3MjdYZjN3em1kQzZzbWl5XzF2ZW1zVGFpQ0VUNXhOdHY2UzVMMElraDJ2Q1VOVWx1WkdNLThuS3p3MG5jaV8wS2xjVEFkQWI3TTVIV1ZtZWlIUEwyNEUwWkF2LVJJRUtKYVd6QVVrXy1tekNuam1VNGVMcWRvQQ?oc=5",
+      "date": "2026-01-01"
+    },
+    {
+      "company": "Dow",
+      "country": "Europe",
+      "type": "layoff",
+      "jobs_affected": 605,
+      "title": "Layoffs of 605! Chemical giant Dow cuts back in Europe, going all-in on the Chinese market",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hbkJzaDRPN1VFdUlWc3U2VUIxT0Zwa2hvWUd4NlZ0LVlFaGVCTTVhc3RXYlRMenluSUJ6ajFHNVA0TlpOeDZwRThTM0Z4VFVy?oc=5",
+      "date": "2026-01-01"
+    },
+    {
+      "company": "Pleo",
       "country": "EU",
       "type": "layoff",
-      "jobs_affected": 16000,
-      "title": "Meta Plans Mass Layoffs: Up to 16,000 Jobs at Stake - trendingtopics.eu",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlA3dUhwYi0xTlpvNjBhcDhrSmo0bGNoaEhaeHZaUnNWV2hsRUh2aFY0MlhFcFQ2UUtWV0JmUnB6ajNnRVB2MzdXeUprYmFMUnlYWFpkbU9FSU8xTHpVTG9UTVNCc0pSbWJSQnp4eGJhSzN4S2F4dEZha0ZNcDVBLVpLNGJBN2s?oc=5",
-      "date": "2026-03-15"
-    },
-    {
-      "company": null,
-      "country": "Europe",
-      "type": "layoff",
-      "jobs_affected": 16000,
-      "title": "Amazon Cuts 16000 Jobs as AI Push Drives Second Layoff Wave - The European Business Review",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1d4emlxQjl3c1BhYTFBU1B6eDF5R1RpVi1SNFJfenNkVlBabFhqUWwySEVzaS1tSTNUakI2N2JFNFg5TUxnTDNUWnAtVnhZQVg1b01kSXpHS1I1UnpxWlN0c0NkYW1ZY3Y1Nnd5SUFIQ1c0TklYbXVRbF9IejRZSnlYN1FYMDV0OUNlUTRpU2ZyUDFwZkJtMjQzY1ZIZUFM?oc=5",
-      "date": "2026-01-29"
-    },
-    {
-      "company": null,
-      "country": null,
-      "type": "restructuring",
-      "jobs_affected": 16000,
-      "title": "Amazon Unveils Second Workforce Restructuring, Cuts 16,000 Jobs to Hit 30,000 Total - Modaes",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRkpISV9uMXB4b2dOMWFWWm1MNXlHQW44TU9qaUxNMVVLNWJHTTZOVFVIRGh2ZVlRRXBETGF0MUF6REhmWGpzMlJqcS1uZGhKVDBFdEYzNW1kQ3JxVGZJZXdoaXhueUxlblZhdE1uS0hCd3A3ZW1mQVczaTZrQzNyZ3U0RzZob1ZwdVFSSDJJYnFBb3Q5NHBhdTlpXzBLcngzcVlidFlWdEVKcjBGaWhaWGI5di1GcXN5TTF4YkNDZDhVZjRfWkRqazl3RERQZ1J1YjlrRVR0MFY?oc=5",
-      "date": "2026-01-28"
-    },
-    {
-      "company": null,
-      "country": null,
-      "type": "layoff",
-      "jobs_affected": 16000,
-      "title": "Amazon layoffs: Tech giant to cut 16,000 jobs, Indian teams could take biggest hit - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRHRoZFlBSmdLY3NVRnlabUVodHFKb3pwd3o2QUhUcWNsZTNpS2t6SDFQczl1NlM5bkh5Qkd0eGZmbkpCdDNrR0QzYW5ud3hLMnRielFkU3dFRE1PdUhJZkRQYk9ZcThWdjVaY2M2WkRUZldrUkdBOTl0WTd3cTdMQ3E0SEktZ0hpWnNtbThybFpQTkpYNzgyTFBkWjhBWmRnVlBHZ1Y1SzA3R0RMTDI3QWdCNExWSHltLWxWeTVGc1k2QdIBxwFBVV95cUxNMGs4ZkZvWWpaeGJDM0xySDlBM3hOQllMNVFNMjFWcFZXU01EdWtYcktmU3liVS10NG41QkhFY2lnMnBxSGdCLU53RXpyc3hvZ3JpbUlLRnV2UEN4YVhYSWdHcHg2aE9uZ0hGdHgwUzRtMzZhNmtwUzhJMjFVLWlRdmUwaEVsLS0zMzBLVGdKODQ3QzZpMjJobFNzNUJLTUNlNjNJVmNXVl9ieEh4VXc5THRIZGhIX2tvZEs4LTZTQS10bENaaGF3?oc=5",
-      "date": "2026-01-27"
-    },
-    {
-      "company": null,
-      "country": null,
-      "type": "layoff",
-      "jobs_affected": 14000,
-      "title": "Massive wave of Amazon layoffs as 14,000 jobs get cut - Techzine Global",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3owY2FsUEJtTDBmTkVaWFMwalNyRWNnQUVkY1hGSjAyX2h4S09XaFZ3YkQyZGdISmNySHh1ZHR0NEhZc083UUQ0dHBlQ1V5NzZQQkF5TWVjNVN0Y1IxSjJIczVYalRaSU9tVDlzdlhiNTVpbW1KVnB3N2lCcXVXbHM0dnZoN0VtdDFuLW01WlVrUURHRVB5WWxkRzQ0MEJzVThGeWhTVQ?oc=5",
-      "date": "2025-10-28"
-    },
-    {
-      "company": null,
-      "country": "Europe",
-      "type": "restructuring",
-      "jobs_affected": 13000,
-      "title": "Bosch Mobility to cut 13,000 Jobs by 2030 in $2.5 billion restructuring - eeNews Europe",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE1ub1BHNW5xdTNrbzZZdjUzQUZjb1Q1aVdFVTdpWFFKOThLUDlkYnRTSk1aQWFxWXN2MGJuUkdEZ2tsRzVrVzlhMlF0VXNwbFdnaHVYd2xCVHphUW1JUHE4cTg4RERZb2kzWnhhMnhaVlI4TkN5bWVFQUNQeDV4dzFpMGVQdmh6WlRWdDBWMXhWRHVqNVhuRU8ybjhpZGFNSzJiWQ?oc=5",
-      "date": "2025-10-03"
-    },
-    {
-      "company": null,
-      "country": null,
-      "type": "layoff",
-      "jobs_affected": 9000,
-      "title": "Novo Nordisk to lay off 9,000 workers as new CEO aims to save $1.3B per year by late 2026 - Fierce Pharma",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTRUV3l5bV8wSThneGEyb2RUYS1XRTJCaEJwLUE5bDNMVHZwUWZXTHhENXVoT2NyZ1QyOUQ2UFgtbDIwTTZzZjhGZi1FQUZTSUs5Y0xDRVp6bkg4d296MEJ2UjFMcktKWlB0d1JWa0x1TXJnazJuNFA3T0lWQ0pXRlEwSlFzX2syYWhjRnFEa3d6NUY2VUZ4WkNlblc1TXQyMGxIeA?oc=5",
-      "date": "2025-09-10"
-    },
-    {
-      "company": null,
-      "country": null,
-      "type": "layoff",
-      "jobs_affected": 9000,
-      "title": "Layoffs News: Wegovy maker Novo Nordisk to cut 9,000 jobs across the globe: Here's why - Mint",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdmo5WVlWTUwzNDJKZmtzZkxQR1FfWW1vOFJtQnJURFdSN2VyU18wV0Z5alRFOWdCbUhFNUUwZk5VX0hsMWkwc2txeE5xMXFqUmNhRDg0d080QjNreUw5OVFJajU3bmIzNXJlV3ZTWGhWZUdYTWlTNlFZUVZPQzdvQVYwVVVZdWRRVm9FcU5fdnhvaG1RRGh0R1Q4MzdLWGVORmpodjBNQ1pmbVYwSnVQYlVZUFY3enlKbDRUY1hRMkVfclBuRWhCRnVOMmNIcWlUTW9lUy11N2kxRDjSAeABQVVfeXFMTnNobF8wSFI3M2VzR2FHRElTRXdXM1QwSTBkU1pvNlZzUXp4UTZ6TlhJSW1DVnVRTjdhb0hqQXpxTFgwR1FyYXpyOGdQRUxMN3hqeEY1WjRIX2NrRmtydmJZcl9kWXpwdkIydFptbi1rNFo5V2U5djZuQ2NMZ2ZjS3JtMndsclBySGFocWt6ZEd3VzgyczFob1gzR3lnTDN2dmFtRFVnZWMxcXVJOXhWRmJYSmtfdUF4V2NldEYtQ0tCRmNSUDgzVjBRYjN3T2NORENYcEt6QWNkcHVDVVVrZTE?oc=5",
-      "date": "2025-09-10"
+      "jobs_affected": 50,
+      "title": "Pleo undertakes fresh round of job cuts, around 50 laid off",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTG5xU0cwVi1YT3l1U1c5OE9kTXBqdVZybUQ0TVlELVhtUFVuSHJXR29tSzFzcXJRYm5pSF9iby0tUkZzOHAtZEx0ZVcwTUNDbnZLSWx1enE4MHprdUJyX2dxOXE4bThfa0gza1YxSVBReDVUbHp3Uk00amcxcTdVdGRxQy1wZDZCOU5RNjgzdw?oc=5",
+      "date": "2026-01-01"
     }
   ],
   "rising_skills": [
@@ -262,49 +262,49 @@
       "skill": "Ai",
       "demand_index": 100,
       "trend": "flat",
-      "evidence": "74 mention(s) across this week's signals"
-    },
-    {
-      "skill": "Tech",
-      "demand_index": 41,
-      "trend": "flat",
-      "evidence": "30 mention(s) across this week's signals"
+      "evidence": "86 mention(s) across this week's signals"
     },
     {
       "skill": "Data/IT",
-      "demand_index": 31,
+      "demand_index": 71,
       "trend": "flat",
-      "evidence": "23 mention(s) across this week's signals"
+      "evidence": "61 mention(s) across this week's signals"
+    },
+    {
+      "skill": "Tech",
+      "demand_index": 47,
+      "trend": "flat",
+      "evidence": "40 mention(s) across this week's signals"
     },
     {
       "skill": "Administration, ekonomi, juridik",
-      "demand_index": 24,
+      "demand_index": 33,
       "trend": "flat",
-      "evidence": "18 mention(s) across this week's signals"
+      "evidence": "28 mention(s) across this week's signals"
     },
     {
       "skill": "Yrken med teknisk inriktning",
-      "demand_index": 20,
+      "demand_index": 33,
       "trend": "flat",
-      "evidence": "15 mention(s) across this week's signals"
+      "evidence": "28 mention(s) across this week's signals"
     },
     {
       "skill": "Automotive",
-      "demand_index": 18,
+      "demand_index": 23,
       "trend": "flat",
-      "evidence": "13 mention(s) across this week's signals"
+      "evidence": "20 mention(s) across this week's signals"
     },
     {
       "skill": "Pedagogik",
-      "demand_index": 15,
+      "demand_index": 19,
       "trend": "flat",
-      "evidence": "11 mention(s) across this week's signals"
+      "evidence": "16 mention(s) across this week's signals"
     },
     {
       "skill": "Försäljning, inköp, marknadsföring",
-      "demand_index": 11,
+      "demand_index": 15,
       "trend": "flat",
-      "evidence": "8 mention(s) across this week's signals"
+      "evidence": "13 mention(s) across this week's signals"
     }
   ],
   "shortages": [
@@ -469,5 +469,6 @@
       "severity": 3.7
     }
   ],
-  "sources_count": 21
+  "sources_count": 21,
+  "llm": "claude-haiku-4-5"
 }

@@ -5,7 +5,7 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "EU Job Market Radar" },
-      { name: "description", content: "Daily snapshot of European layoffs, hiring moves, and rising skills." },
+      { name: "description", content: "Weekly snapshot of European layoffs, hiring moves, and rising skills." },
     ],
   }),
   component: Dashboard,
@@ -34,11 +34,13 @@ const FLAGS: Record<string, string> = {
   DE: "🇩🇪", FR: "🇫🇷", IT: "🇮🇹", ES: "🇪🇸", NL: "🇳🇱", SE: "🇸🇪",
   DK: "🇩🇰", FI: "🇫🇮", PL: "🇵🇱", IE: "🇮🇪", BE: "🇧🇪", AT: "🇦🇹",
   PT: "🇵🇹", CZ: "🇨🇿", GR: "🇬🇷", HU: "🇭🇺", RO: "🇷🇴",
+  CH: "🇨🇭", NO: "🇳🇴", GB: "🇬🇧", EU: "🇪🇺",
 };
 const NAME_TO_CODE: Record<string, string> = {
   Germany: "DE", France: "FR", Italy: "IT", Spain: "ES", Netherlands: "NL",
   Sweden: "SE", Denmark: "DK", Finland: "FI", Poland: "PL", Ireland: "IE",
   Belgium: "BE", Austria: "AT", Portugal: "PT", Czechia: "CZ", Greece: "GR",
+  Switzerland: "CH", Norway: "NO", Europe: "EU", EU: "EU", EU27: "EU",
 };
 const flagFor = (code?: string) => (code && FLAGS[code]) || "🇪🇺";
 const flagByName = (name: string) => FLAGS[NAME_TO_CODE[name] ?? ""] ?? "🇪🇺";
@@ -107,7 +109,7 @@ function DashboardView({ data }: { data: Data }) {
         <div className="mx-auto max-w-6xl px-6 py-6 flex flex-wrap items-end justify-between gap-4">
           <div>
             <div className="flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-accent">
-              <span className="h-1.5 w-1.5 rounded-full bg-accent" /> EU · Daily
+              <span className="h-1.5 w-1.5 rounded-full bg-accent" /> EU · Weekly
             </div>
             <h1 className="mt-2 font-serif text-3xl sm:text-4xl leading-tight">EU Job Market Radar</h1>
             <p className="text-muted-foreground mt-1 text-sm">{data.period}</p>
