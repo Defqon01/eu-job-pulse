@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-06-12T06:00:00Z",
+  "period": "Week of June 8–12, 2026",
+  "summary": "Layoff activity in the EU eased slightly week-over-week, led by cuts in German automotive and Nordic telecom. Hiring momentum continues in AI infrastructure, defense tech, and grid engineering, while Cedefop flags persistent shortages in healthcare and skilled trades across most member states.",
+  "countries": [
+    { "name": "Germany", "code": "DE", "layoff_level": "high", "layoff_score": 0.86, "events": 14, "vacancies": 712000, "headline": "VW supplier Bosch to cut 3,500 software roles by Q4", "headline_url": "https://example.com/bosch-cuts", "summary": "Automotive and industrial software bear the brunt; Mittelstand hiring steady." },
+    { "name": "Sweden", "code": "SE", "layoff_level": "elevated", "layoff_score": 0.64, "events": 6, "vacancies": 118000, "headline": "Ericsson trims 1,200 in radio access network unit", "headline_url": "https://example.com/ericsson", "summary": "Telecom restructuring continues; gaming and fintech hiring offsets." },
+    { "name": "France", "code": "FR", "layoff_level": "moderate", "layoff_score": 0.48, "events": 7, "vacancies": 364000, "headline": "Atos finalizes split, 900 roles affected", "headline_url": "https://example.com/atos", "summary": "IT services consolidating; defense and nuclear hiring accelerates." },
+    { "name": "Netherlands", "code": "NL", "layoff_level": "moderate", "layoff_score": 0.41, "events": 4, "vacancies": 401000, "headline": "ASML expands Veldhoven hiring despite export curbs", "headline_url": "https://example.com/asml", "summary": "Tight labor market; semis and logistics dominate openings." },
+    { "name": "Italy", "code": "IT", "layoff_level": "moderate", "layoff_score": 0.37, "events": 5, "vacancies": 287000, "headline": "Stellantis Mirafiori on extended furlough", "headline_url": "https://example.com/stellantis", "summary": "Auto demand soft; tourism and construction holding." },
+    { "name": "Spain", "code": "ES", "layoff_level": "low", "layoff_score": 0.22, "events": 3, "vacancies": 156000, "headline": "Telefónica opens 600 AI engineering roles in Madrid", "headline_url": "https://example.com/telefonica", "summary": "Net hiring positive; energy transition projects ramping." },
+    { "name": "Poland", "code": "PL", "layoff_level": "low", "layoff_score": 0.18, "events": 2, "vacancies": 142000, "headline": "Intel pauses Wrocław fab, redeploys 400 staff", "headline_url": "https://example.com/intel-pl", "summary": "Manufacturing slowdown; defense and logistics hiring strong." },
+    { "name": "Ireland", "code": "IE", "layoff_level": "elevated", "layoff_score": 0.58, "events": 4, "vacancies": 88000, "headline": "Meta Dublin announces 700 role reductions", "headline_url": "https://example.com/meta-ie", "summary": "Big Tech rebalancing; pharma and medtech absorbing talent." },
+    { "name": "Denmark", "code": "DK", "layoff_level": "low", "layoff_score": 0.15, "events": 1, "vacancies": 71000, "headline": "Novo Nordisk to hire 1,000 in Kalundborg expansion", "headline_url": "https://example.com/novo", "summary": "GLP-1 boom drives sustained hiring." }
+  ],
+  "top_events": [
+    { "company": "Bosch", "country": "Germany", "type": "Layoff", "jobs_affected": 3500, "title": "Bosch to cut 3,500 software roles by Q4", "url": "https://example.com/bosch-cuts", "date": "2026-06-10" },
+    { "company": "Ericsson", "country": "Sweden", "type": "Restructuring", "jobs_affected": 1200, "title": "Ericsson trims 1,200 in RAN unit", "url": "https://example.com/ericsson", "date": "2026-06-09" },
+    { "company": "Novo Nordisk", "country": "Denmark", "type": "Expansion", "jobs_affected": 1000, "title": "Novo Nordisk to hire 1,000 in Kalundborg", "url": "https://example.com/novo", "date": "2026-06-11" },
+    { "company": "Atos", "country": "France", "type": "Restructuring", "jobs_affected": 900, "title": "Atos finalizes split, 900 roles affected", "url": "https://example.com/atos", "date": "2026-06-08" },
+    { "company": "Meta", "country": "Ireland", "type": "Layoff", "jobs_affected": 700, "title": "Meta Dublin cuts 700 roles", "url": "https://example.com/meta-ie", "date": "2026-06-10" },
+    { "company": "Telefónica", "country": "Spain", "type": "Hiring", "jobs_affected": 600, "title": "Telefónica opens 600 AI roles in Madrid", "url": "https://example.com/telefonica", "date": "2026-06-09" }
+  ],
+  "rising_skills": [
+    { "skill": "AI Infrastructure (GPU/Kubernetes)", "demand_index": 94, "trend": "up", "evidence": "Postings mentioning GPU orchestration up 38% MoM across DE, FR, NL." },
+    { "skill": "Grid & Power Systems Engineering", "demand_index": 88, "trend": "up", "evidence": "Utilities and transmission operators hiring for HVDC and storage projects." },
+    { "skill": "Defense Software Engineering", "demand_index": 82, "trend": "up", "evidence": "Primes and startups in FR/DE/SE expanding embedded and ISR teams." },
+    { "skill": "LLM Evaluation & Safety", "demand_index": 76, "trend": "up", "evidence": "EU AI Act compliance roles emerging at scale across regulated industries." },
+    { "skill": "Rust Systems Programming", "demand_index": 71, "trend": "up", "evidence": "Adoption in fintech, browsers, and embedded firmware accelerating." },
+    { "skill": "Frontend Generalist (React)", "demand_index": 54, "trend": "flat", "evidence": "Volume steady; senior bar rising, junior postings down." },
+    { "skill": "Crypto / Web3 Engineering", "demand_index": 28, "trend": "down", "evidence": "Postings down 22% YoY; concentrated in CH and a few DE startups." }
+  ],
+  "shortages": [
+    { "country": "Germany", "occupation": "Registered Nurses", "severity": 3.9 },
+    { "country": "France", "occupation": "Software Developers", "severity": 3.6 },
+    { "country": "Netherlands", "occupation": "Electricians", "severity": 3.8 },
+    { "country": "Sweden", "occupation": "Civil Engineers", "severity": 3.4 },
+    { "country": "Spain", "occupation": "Heavy Truck Drivers", "severity": 3.2 },
+    { "country": "Poland", "occupation": "Welders", "severity": 3.7 },
+    { "country": "Italy", "occupation": "ICT Security Specialists", "severity": 3.5 },
+    { "country": "Denmark", "occupation": "Primary School Teachers", "severity": 3.1 },
+    { "country": "Ireland", "occupation": "Construction Project Managers", "severity": 3.6 }
+  ],
+  "sources_count": 47
+}
